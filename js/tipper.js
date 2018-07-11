@@ -1,0 +1,6 @@
+!function(a){a.fn.toolTip=function(b){return this.each(function(){function m(b){var c=a("#"+k);c.css({top:b.pageY+parseInt(j),left:b.pageX+parseInt(i)}).show("fast"),null!=h&&(h.indexOf("left")>=0&&c.css({left:"auto",right:f-parseInt(b.pageX)+parseInt(i)}),h.indexOf("top")>=0&&c.css({top:b.pageY-parseInt(g)-parseInt(j)}))}var c={positionPro:"position",positionValue:null,positionX:"10",positionY:"20",tipEle:"tooltip",tipText:"title",tipFlag:!0},d=a.extend({},c,b),e=a(this),f=a(window).width(),g=e.outerHeight(),h=void 0!=e.attr(d.positionPro)?e.attr(d.positionPro):d.positionValue,i=void 0!=e.attr("positionX")?e.attr("positionX"):d.positionX,j=void 0!=e.attr("positionY")?e.attr("positionY"):d.positionY,k=d.tipEle,l=e.attr(d.tipText);0!=d.tipFlag&&void 0!=e.attr(d.tipText)&&e.on("mouseover",function(b){if(a(this),this.title="",void 0!=l){var d="<div id='"+k+"'><p>"+l+"</p></div>";a("body").append(d)}m(b)}).on("mouseout",function(){this.title=l,a("#"+k).remove()}).on("mousemove",function(a){m(a)})})}}(jQuery);
+
+
+$(function(){
+	$(".full-portfolio-images div").toolTip(); 
+})

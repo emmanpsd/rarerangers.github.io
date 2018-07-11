@@ -1,0 +1,156 @@
+@media (max-width:1200px){
+.counter {margin-right: 70px; }
+.fun-fact-sec.up > .counter {margin-left: 70px; }
+.my-skill {margin-left: 17px; }
+.full-title {font-size: 100px; }
+.text-title > p {padding: 0; }
+.text-title2 > p {padding: 0; }
+.option-isotop.style2 li a {font-size: 27px; line-height: 35px; }
+.option-isotop.style2 li a.selected {padding: 0 10px; }
+.option-isotop.style2 {padding-left: 30px; }
+.box-detail {padding-left: 40px; }
+.box-detail::before {left: 40px; }
+.boxed-padding {padding: 10px; }
+.boxed-padding > header.still.minimal-header {background: #161616 none repeat scroll 0 0; height: 100%; left: -270px; overflow-y: scroll; position: fixed; top: 0; }
+.open-fixed-menu {background: #303030 none repeat scroll 0 0; -webkit-border-radius: 50%; -moz-border-radius: 50%; -ms-border-radius: 50%; -o-border-radius: 50%; border-radius: 50%; display: block; height: 50px; overflow: hidden; position: fixed; right: 20px; text-align: center; top: 20px; width: 50px; }
+.open-fixed-menu > .wrapper-menu::before {display: none; }
+.open-fixed-menu > .wrapper-menu {float: none; position: relative; top: -6px; }
+.boxed-padding > header.still.minimal-header.slidein {left: 0; }
+.grid-portfolio-sec .load-more-btn {margin-bottom: 50px; }
+.single-portfolio-detail.color-post {padding: 0 0 0 40px; }
+
+}
+
+@media (max-width:980px){
+header {padding: 40px 0 0; }
+.my-self {margin-top: 50px; padding: 0; }
+.text-block > p {padding: 0; }
+.block .container {padding: 0 15px; }
+.container {padding: 0 15px; }
+.fun-fact-sec {padding: 0; text-align: center; }
+.counter {display: inline-block; float: none; margin: 0 20px; text-align: center; width: auto; }
+.counter > h3 {width: 100%; }
+.fun-fact-sec.up > .counter {float: none; margin: 0 20px; text-align: center; }
+.counter > h3 {font-size: 25px; }
+.full-title {font-size: 79px; letter-spacing: -3px; line-height: 65px; margin: 0 0 -20px; }
+.column {margin-top: 90px; }
+.column:first-child {margin-top: 0; }
+.skills-sec {text-align: center; }
+.skills-sec > .my-skill {display: inline-block; float: none; margin: 0 20px; text-align: left; }
+.text-title h2 {font-size: 59px; }
+.container{max-width: 100%; }
+.container.fluid {padding: 0; }
+.full-portfolio-nav {left: 20px; }
+.full-portfolio-nav span {font-size: 25px; line-height: 33px; }
+.full-portfolio-nav .slick-slide.slick-active.slick-center span {font-size: 35px; } 
+header {padding: 20px 20px 0; }
+.full-portfolio-images li > div a {background-position: center center; }
+.text-title {padding-left: 30px; }
+.text-title2 {padding-left: 30px; }
+.option-isotop.style2 ul > li {display: inline-block; float: none; width: auto; }
+.option-isotop.style2 {padding: 0 20px; text-align: center; }
+.option-isotop.style2 ul > li a {font-size: 20px; padding: 5px 10px; }
+.text-style3 {padding-left: 30px; }
+.fancy-portfolio {margin-top: 80px; text-align: center; width: 100%; }
+.fancy-portfolio > img {display: inline-block; float: none; }
+.fancy-portfolio-title, .fancy-portfolio.flip .fancy-portfolio-title {display: inline-block; float: none; margin-bottom: 0 !important; margin-left: 0 !important; margin-right: 0 !important; margin-top: 20px; padding: 0 30px; position: static; text-align: center; width: 100%; }
+.fancy-portfolio-title .item-cat, .fancy-portfolio.flip .fancy-portfolio-title .item-cat {display: inline-block; float: none; }
+.blog-post {text-align: center; }
+.blog-post > a {display: inline-block; float: none; }
+.vertical-portfolio > h3 {font-size: 33px; letter-spacing: -2px; line-height: 41px; opacity: 1; }
+.heading-mini {margin-bottom: 50px; }
+.hover-box-white h3 {font-size: 25px; }
+.single-portfolio-detail {margin-top: 40px; padding: 0; }
+.portfolio-detail {margin-top: 40px; }
+.contact-form form button {right: 15px; }
+.contact-us {padding-left: 0; padding-top: 0; }
+.my-contact-boxes {margin-bottom: 0; }
+
+
+
+
+}
+
+@media (max-width:767px){
+.skills-sec > .my-skill {margin: 0 10px; }
+.container{max-width: 100%; }
+.text-title h2 {font-size: 49px; }
+.text-block > i {font-size: 268px; }
+.single-post-detail blockquote {padding: 50px; }
+.single-main-infos {padding: 50px 0 36px; }
+.single-main-infos > .posted-by {float: left; position: static; }
+.countdown-sec > ul > li > span {font-size: 40px; }
+.countdown-sec li p {font-size: 13px; }
+.countdown-sec > ul > li {margin: 0; }
+.page-not-found > h3 {font-size: 168px; font-weight: 400; }
+.text-title > span {font-size: 20px; } 
+.text-title h2 {font-size: 42px; }
+.text-title > p {font-size: 16px; line-height: 29px; }
+.text-style3 h1 {font-size: 61px; letter-spacing: -2px; line-height: 61px; }
+.text-rotator > span {font-size: 23px; }
+.text-rotator div span, .text-rotator div {font-size: 23px; } 
+.box-portoflio.with-img img {width: 100%; }
+.text-title.center p {padding: 0; }
+.text-style4 > p {padding: 0; }
+.text-style4 h1 {font-size: 44px; }
+.h-title {float: left; margin-top: 30px; padding: 0; position: static; width: 100%; }
+.h-title > h3 {font-size: 24px; }
+.h-portfolio::before {background-position: left top; background-repeat: no-repeat; background-size: cover; }
+.h-portfolio.down {margin-top: 0; }
+
+}
+
+@media (max-width:520px){
+.text-title h2 {font-size: 41px; }
+.text-block > h3 {font-size: 20px; font-weight: 500; }
+.text-block > span {font-size: 12px; line-height: 25px; margin-bottom: 10px; }
+.full-title {font-size: 42px; }
+.footer-social > li {margin: 0; }
+.footer-social a {font-size: 13px; padding: 6px 23px; }
+.block {padding: 150px 0; }
+.block.less-bottom {padding-bottom: 80px; }
+.block.less-top {padding-top: 80px; }
+.bottom-line {line-height: 30px; }
+.single-title-metas > h2 {font-size: 24px; font-weight: 500; line-height: 34px; margin: -17px 0 20px; }
+.countdown > li > span {font-size: 25px; }
+.countdown > li > p {font-size: 14px; margin: 0; }
+.countdown > li {padding: 0 8px; }
+.app-soon-sec h1 {font-size: 30px; margin: 15px 0 0; width: 100%; }
+.countdown {margin: 30px 0 0; }
+.countdown-sec > ul > li > span {font-size: 17px; line-height: 3px; margin-top: 64px; }
+.countdown-sec li p {font-size: 9px; }
+.countdown-sec > ul > li {padding-left: 7px !important; width: 64px; }
+.countdown-sec > ul > li::before {width: 2px; }
+.countdown-sec > ul > li::after {width: 2px; }
+.coming-sson-sec .text-title h2 {font-size: 60px; line-height: 60px; } 
+.page-not-found > h3 {font-size: 128px; }
+.portfolio-nav > li {padding: 0; text-align: center; width: 100%; }
+.skills-sec {margin-bottom: -50px; }
+.skills-sec > .my-skill {margin: 0 10px 50px; }
+.fancy-portfolio-title > h3 {font-size: 27px; letter-spacing: -1px; line-height: 29px; margin: 8px 0 0; }
+.vertical-portfolio {width: 300px; }
+.h-portfolio-sec {padding-left: 110px; }
+.side-bar {width: 50px; }
+.side-bar .logo a i {left: 0; position: relative; top: 12px; }
+.bottom-text {-webkit-transform: rotate(-90deg) translateX(180px) translateY(-120px); -moz-transform: rotate(-90deg) translateX(180px) translateY(-120px); -ms-transform: rotate(-90deg) translateX(180px) translateY(-120px); -o-transform: rotate(-90deg) translateX(180px) translateY(-120px); transform: rotate(-90deg) translateX(180px) translateY(-120px); }
+header.minimal-header.active .minimal-menu {left: 50px; }
+.minimal-menu {padding: 0 0 0 40px; width: 270px !important; }
+footer.footer-top {padding-left: 70px; padding-top: 40px; }
+.footer-top .footer-social a {padding-bottom: 0; padding-left: 0; padding-right: 4px; }
+footer.style2.footer-top .footer-social {text-align: left; } 
+.h-portfolio-sec {padding-left: 70px; }
+.grid-portfolio-sec {padding: 0; }
+.portfolio-detail > ul > li span {font-size: 13px; width: 160px; }
+.single-portfolio-detail.color-post {padding: 0; }
+.logo {height: 45px; width: 45px; border: 2px solid #181818; }
+.logo > a {font-size: 22px; padding: 8px 0; }
+header #open-full-screen.wrapper-menu {margin-top: 9px; }
+.full-screen-menu > ul > li > a {font-size: 30px; }
+.full-screen-menu > ul > li.menu-item-has-children > a::before {font-size: 23px; top: 7px; }
+.full-screen-menu > ul > li.menu-item-has-children > a::after {font-size: 23px; top: 7px; }
+.full-screen-menu > ul > li.menu-item-has-children > a {padding: 0 32px; }
+.contact-title > p {padding: 0; }
+
+
+
+}
